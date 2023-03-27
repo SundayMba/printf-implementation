@@ -1,4 +1,3 @@
-#include "main.h"
 
 void print_buffer(char buffer[], int *buff_ind);
 
@@ -14,7 +13,7 @@ int _printf(const char *format, ...)
 	va_list list;
 	char buffer[BUFF_SIZE];
 
-	if (format == NULL)
+	if (format == NULL || (format[0] == '%' && format[1] == '\0'))
 		return (-1);
 
 	va_start(list, format);
