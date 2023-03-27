@@ -58,8 +58,8 @@
 
 ### Authors
 
-- iAmG-r00t 👾
-- Michael Ndula [@Michaelndula](https://github.com/Michaelndula) 👨‍💻
+- SundayMba [@Sundaymba](https://github.com/Sundaymba)
+-  Adefisoye Asaolu (https://github.com/ashkenking)
 
 
 ## Tasks
@@ -86,5 +86,16 @@
 	- You don’t have to handle precision.
 	- You don’t have to handle the length modifiers.
 
-2. **Just because it's in print doesn't mean it's the gospel** : Create a man page for your function.
-	- How to read the man page: `man ./man_3_printf`
+2. **With a face like mine, I do better in print : Handle the following custom conversion specifiers:
+	- 'b' the unsigned int argument is converted to binary
+3 **What one has not experienced, one will never understand in print : Handle the following conversion specifiers:
+	'u'
+	'o'
+	'x'
+	'X'
+	You don’t have to handle the flag characters
+	You don’t have to handle field width
+	You don’t have to handle precision
+	You don’t have to handle the length modifiers
+	
+	
