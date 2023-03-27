@@ -55,13 +55,6 @@
 	```
 - All test files will be in the [test](./test) directory.
 
-
-### Authors
-
-- SundayMba [@Sundaymba](https://github.com/Sundaymba)
--  Adefisoye Asaolu (https://github.com/ashkenking)
-
-
 ## Tasks
 
 0. **I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life** : A function that produces output according to a format.
@@ -87,15 +80,16 @@
 	- You don’t have to handle the length modifiers.
 
 2. **With a face like mine, I do better in print : Handle the following custom conversion specifiers:
-	- 'b' the unsigned int argument is converted to binary
+	- `b` 
+	- the unsigned int argument is converted to binary
 3 **What one has not experienced, one will never understand in print : Handle the following conversion specifiers:
-	'u'
-	'o'
-	'x'
-	'X'
-	You don’t have to handle the flag characters
-	You don’t have to handle field width
-	You don’t have to handle precision
-	You don’t have to handle the length modifiers
+	`u`
+	`o`
+	`x`
+	`X`
+	- You don’t have to handle the flag characters
+	- You don’t have to handle field width
+	- You don’t have to handle precision
+	- You don’t have to handle the length modifiers
 	
 	
